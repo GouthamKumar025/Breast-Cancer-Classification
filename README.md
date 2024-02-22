@@ -16,7 +16,7 @@
 
 In this project, logistic regression is employed to classify breast tumors as malignant or benign using a dataset containing various features computed from digitized images of breast cancer biopsies.</p>
 
-<h3>Dataset<h3>
+<h3>Dataset</h3>
 <p>The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) Dataset, which is publicly available in the UCI Machine Learning Repository. It consists of features computed from digitized images of fine needle aspirates (FNA) of breast masses, and the target variable indicates whether the tumor is malignant (M) or benign (B).</p>
 
 <h3>Installation</h3>
